@@ -1,0 +1,11 @@
+{
+    "name": "navarr/ytaudio",
+    "description": "A YouTube audio player generator",
+    "minimum-stability": "stable",
+    "authors": [
+        {
+            "name": "Navarr Barnier",
+            "email": "me@navarr.me"
+        }
+    ]
+}
